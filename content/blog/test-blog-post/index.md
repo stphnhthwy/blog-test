@@ -1,5 +1,5 @@
 ---
-title: Test blog post!!
+title: Property Insights
 date: 2022-07-10T18:43:45.975Z
 description: Test blog post
 ---
