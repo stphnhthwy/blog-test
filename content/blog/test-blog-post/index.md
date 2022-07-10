@@ -3,15 +3,11 @@ title: Property Insights
 date: 2022-07-10T18:43:45.975Z
 description: Test blog post
 ---
-
-
 ![Image of a home destroyed by a hurricane.](cpi-cover.png "CPI Cover image")
 
 # Cognizant Property Insights
 
 ## Estimate property damage within a week of a catastrophe and close claims faster.
-
-
 
 ### Overview
 
@@ -24,8 +20,6 @@ As the Lead Product Designer I lead design efforts through Beta and GA launches.
 ### Problem
 
 Currently, claims can take up to three weeks to start, depending on when an adjuster or claims manager can visit a damaged property. Through user research, we identified different users and high-level pain points for all parties involved.
-
-
 
 #### Pain points
 
@@ -56,3 +50,11 @@ Catastrophe planning can be challenging when you don't know where the high areas
 ##### ![](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiI+CiAgPGRlZnM+CiAgICA8cGF0aCBpZD0iY2xvc2UtaWNvbi1hIiBkPSJNMTYsOCBDMTEuNTg4OCw4IDgsMTEuNTg4OCA4LDE2IEM4LDIwLjQxMTIgMTEuNTg4OCwyNCAxNiwyNCBDMjAuNDExMiwyNCAyNCwyMC40MTEyIDI0LDE2IEMyNCwxMS41ODg4IDIwLjQxMTIsOCAxNiw4IE0xNiwyMi40IEMxMi40NzEyLDIyLjQgOS42LDE5LjUyODggOS42LDE2IEM5LjYsMTIuNDcxMiAxMi40NzEyLDkuNiAxNiw5LjYgQzE5LjUyODgsOS42IDIyLjQsMTIuNDcxMiAyMi40LDE2IEMyMi40LDE5LjUyODggMTkuNTI4OCwyMi40IDE2LDIyLjQgTTE4Ljk2NTYsMTMuMDM0NCBDMTguNjUyOCwxMi43MjE2IDE4LjE0NzIsMTIuNzIxNiAxNy44MzQ0LDEzLjAzNDQgTDE2LDE0Ljg2ODggTDE0LjE2NTYsMTMuMDM0NCBDMTMuODUyOCwxMi43MjE2IDEzLjM0NzIsMTIuNzIxNiAxMy4wMzQ0LDEzLjAzNDQgQzEyLjcyMTYsMTMuMzQ3MiAxMi43MjE2LDEzLjg1MjggMTMuMDM0NCwxNC4xNjU2IEwxNC44Njg4LDE2IEwxMy4wMzQ0LDE3LjgzNDQgQzEyLjcyMTYsMTguMTQ3MiAxMi43MjE2LDE4LjY1MjggMTMuMDM0NCwxOC45NjU2IEMxMy4xOTA0LDE5LjEyMTYgMTMuMzk1MiwxOS4yIDEzLjYsMTkuMiBDMTMuODA0OCwxOS4yIDE0LjAwOTYsMTkuMTIxNiAxNC4xNjU2LDE4Ljk2NTYgTDE2LDE3LjEzMTIgTDE3LjgzNDQsMTguOTY1NiBDMTcuOTkwNCwxOS4xMjE2IDE4LjE5NTIsMTkuMiAxOC40LDE5LjIgQzE4LjYwNDgsMTkuMiAxOC44MDk2LDE5LjEyMTYgMTguOTY1NiwxOC45NjU2IEMxOS4yNzg0LDE4LjY1MjggMTkuMjc4NCwxOC4xNDcyIDE4Ljk2NTYsMTcuODM0NCBMMTcuMTMxMiwxNiBMMTguOTY1NiwxNC4xNjU2IEMxOS4yNzg0LDEzLjg1MjggMTkuMjc4NCwxMy4zNDcyIDE4Ljk2NTYsMTMuMDM0NCIvPgogIDwvZGVmcz4KICA8dXNlIGZpbGw9IiNDNTMwMzAiIGZpbGwtcnVsZT0iZXZlbm9kZCIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTggLTgpIiB4bGluazpocmVmPSIjY2xvc2UtaWNvbi1hIi8+Cjwvc3ZnPgo=) Customer experience
 
 Delays in catastrophe-related claims processing that negatively impact homeowners' lives, and not being able to support homeowners in their greatest time of need.
+
+### Users
+
+![Aerial image of a hurricane disaster zone.](https://www.stphnhthwy.com/static/cpi-manager-c2faaa6eea85d14c58dca12e2c4e97cf.png)
+
+##### Claims Manager
+
+Manage teams of remote and field adjusters, assign properties, and provide a strategy for high damage priority areas and properties.
